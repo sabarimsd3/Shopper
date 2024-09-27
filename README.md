@@ -1,1 +1,1 @@
-(Live Preview)[https://sabarimsd3.github.io/Shopper/]
+[Live Preview](https://sabarimsd3.github.io/Shopper/)
